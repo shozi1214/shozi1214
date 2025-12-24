@@ -39,23 +39,12 @@
   Passionate about building robust <b>Machine Learning</b> models, advanced <b>Time Series Forecasting</b>, efficient <b>ETL/ELT</b> pipelines, and maintaining well-structured databases through <b>Normalization</b>. Experienced in <b>Feature Engineering</b> and crafting insightful <b>Data Visualizations</b> that empower data-driven decisions.
 </p>
 
-<h2>📊 GitHub Stats 🚀</h2>
-
-<p align="center" style="max-width: 700px; color: #666; font-style: italic;">
-  A quick snapshot of my GitHub journey.
-</p>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shozi1214&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="380" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shozi1214&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="380" />
-</div>
-
 <h2>Languages 🌍</h2>
 
 <p>
   🇬🇧 English — ⭐⭐⭐⭐⭐  
   
-  🇩🇪 German — ⭐⭐⭐☆☆
+  🇩🇪 German — ⭐⭐⭐⭐ ☆
 </p>
 
 <h2>🤝 Let's Connect!</h2>
